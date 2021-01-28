@@ -65,7 +65,7 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>Laptop_Management</name>
+        <name>Laptop_Asset_Management</name>
         <type>CustomApplication</type>
     </appMenuItems>
 </AppMenu>
